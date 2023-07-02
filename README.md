@@ -18,8 +18,13 @@
 
 
 References:
+
 https://registry.terraform.io/providers/hashicorp/aws/latest/docs
+
 https://helmfile.readthedocs.io/en/latest/
+
 https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/
+
 https://www.w3schools.com/python/python_regex.asp
+
 https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_use_permissions-to-switch.html
