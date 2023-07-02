@@ -1,0 +1,15 @@
+
+releases:
+- name: dev-nginx
+  namespace: dev
+  chart: nginx-chart  #local chart
+  set:
+  - name: replicaCount
+    value: 2
+
+- name: prod-nginx
+  namespace: prod
+  chart: nginx-chart  #local chart
+  set:
+  - name: replicaCount
+    value: 5
